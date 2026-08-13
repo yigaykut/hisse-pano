@@ -1,0 +1,6 @@
+# Bu dizine YALNIZCA sifreli dosyalar girer.
+*
+!index.html
+!watchlist.html
+!.nojekyll
+!.gitignore
